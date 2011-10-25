@@ -19,6 +19,7 @@ This is a headless web browser, i.e it doesn't emulate web browser full. It just
     log: tests/log
 
 Configuration options are:
+
 * start: URL of site you want to test, for example: http://localhost/mysite
 * log: path were logs and snapshots will be put. Use: test/log
 
